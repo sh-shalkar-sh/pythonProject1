@@ -12,4 +12,4 @@ for i in word:
     for k, v in list_bukvy.items():
         if i in v:
             summ += k
-print(f"Стоимость слова: {summ}")
+print(f"Стоимость слова: {summ}" )

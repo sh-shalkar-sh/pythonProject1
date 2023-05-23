@@ -6,4 +6,4 @@ count = 0
 for i in range(size_list):
     if arr[i] == x:
         count += 1
-print(f'Число {x} встречается в списке "n" {count} раз.')
+print(f'Число {x} встречается в списке "n" {count} раз.' )
